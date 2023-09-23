@@ -5,7 +5,6 @@
   ## Built with
   - 🍃 SpringBoot
   - 🍃 Java 11
-  - 🍃 SpringMail
   - 🍃 jasperreports
   - 🌶 Lombok
   - 🍃 H2-DB
